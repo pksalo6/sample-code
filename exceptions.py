@@ -1,0 +1,2 @@
+class NordPoolException(Exception):
+    pass
